@@ -1,2 +1,2 @@
 <?php
-echo "<h1>Hola món des de Docker + GitHub Actions</h1>";
+echo "<h1>Hola mundillo des de Docker + GitHub Actions</h1>";
